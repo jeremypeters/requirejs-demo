@@ -1,5 +1,7 @@
 # A simple RequireJS demo
 
+This demo provides examples for [http://jeremypeters.co.uk/blog/an-introduction-to-amd-and-requirejs](http://jeremypeters.co.uk/blog/an-introduction-to-amd-and-requirejs).
+
 ## Getting Started
 
 If you don't have `npm` installed, make sure you have
