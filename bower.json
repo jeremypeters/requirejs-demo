@@ -1,0 +1,20 @@
+{
+  "name": "requirejs-demo",
+  "version": "1.0.0",
+  "authors": [
+    "Jeremy Peters"
+  ],
+  "description": "A simple RequireJS demo",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "underscore": "~1.8.2",
+    "requirejs": "~2.1.16"
+  }
+}
